@@ -62,3 +62,26 @@
   font-style: normal;
   font-weight: normal;
 }
+
+
+/*
+ * Playfair
+================================================================================ */
+@font-face {
+  font-family: "playfair-regular";
+  src: url("../fonts/Playfair/PlayfairDisplay-Regular.woff2") format("woff2"), url("../fonts/Playfair/PlayfairDisplay-Regular.woff2") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "playfair-italic";
+  src: url("../fonts/Playfair/PlayfairDisplay-Italic.woff2") format("woff2"), url("../fonts/Playfair/PlayfairDisplay-Italic.woff2") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "playfair-bold";
+  src: url("../fonts/Playfair/PlayfairDisplay-Bold.woff2") format("woff2"), url("../fonts/Playfair/PlayfairDisplay-Bold.woff2") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
